@@ -1,1 +1,6 @@
-创建的第一个分支
+#include "stm32f10x.h"
+
+void main()
+{
+	for(;;i++)
+}
